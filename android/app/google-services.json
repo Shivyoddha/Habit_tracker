@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "67776228107",
-    "project_id": "habitapp-b84df",
-    "storage_bucket": "habitapp-b84df.appspot.com"
+    "project_number": "596468145399",
+    "project_id": "lastapp-24b5c",
+    "storage_bucket": "lastapp-24b5c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:67776228107:android:d386774add06303a2d100e",
+        "mobilesdk_app_id": "1:596468145399:android:da100ed8c7bc28b92407f2",
         "android_client_info": {
-          "package_name": "com.anish.habit_tracker_app"
+          "package_name": "com.anish.habit_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "67776228107-0jeknjpjnvid1up7mghet882f8b0u4kp.apps.googleusercontent.com",
+          "client_id": "596468145399-u6mtn76snbceo2bqbeqap9nbkrrot2br.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyASXzk1XBGa436dH99XMQaP47RKOHvQJU0"
+          "current_key": "AIzaSyBJPhTzRf9uYJteZlCWC6knyyWiUjLwTXI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "67776228107-0jeknjpjnvid1up7mghet882f8b0u4kp.apps.googleusercontent.com",
+              "client_id": "596468145399-u6mtn76snbceo2bqbeqap9nbkrrot2br.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

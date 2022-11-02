@@ -111,9 +111,6 @@ class NavDrawer extends StatelessWidget {
                           width: 200,
                           child: ElevatedButton(
                             child: Text("BackUp Location"),
-                            style: ButtonStyle(
-                                backgroundColor:
-                                MaterialStateProperty.all(Colors.cyan[800])),
                             onPressed: () async{
                               final Directory rootPath = await getTemporaryDirectory();
                                  backup = await FilesystemPicker.open(
@@ -135,7 +132,7 @@ class NavDrawer extends StatelessWidget {
                                        File(boxPath!).copy(backup!);},
                                 style: ButtonStyle(
                                   backgroundColor:
-                                  MaterialStateProperty.all(Colors.cyan[800])),
+                                  MaterialStateProperty.all(Colors.cyan)),
                               child: Padding(
                                 padding:  EdgeInsets.all(4),
                                 child: Row(

@@ -30,7 +30,7 @@ This is a habit tracking app that will help you to develop habits in an interest
 
 ## d) References Used:
  1) Udemy Course- by Angela Yu
- 2) Youtubbe videos for UI 
+ 2) Youtube videos for UI 
  
 ## e) Operating System used:
   1) Windows

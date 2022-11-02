@@ -36,4 +36,11 @@ This is a habit tracking app that will help you to develop habits in an interest
   1) Windows
   
 ## f) Screenshots:
+![image](https://user-images.githubusercontent.com/97729353/199509088-6eaa068a-9ccf-44e0-887a-2e7fe8e75874.png)
 ![image](https://user-images.githubusercontent.com/97729353/199507902-6c84370c-5bfa-474a-b422-9dfccdfa2f31.png)
+![image](https://user-images.githubusercontent.com/97729353/199509022-6dfcc265-3737-478b-a1cf-28796690de17.png)
+![image](https://user-images.githubusercontent.com/97729353/199509219-9b7a9f40-1c54-41e3-9659-e28e150e45bf.png)
+![image](https://user-images.githubusercontent.com/97729353/199509315-d6d536a6-9c36-46e5-b82e-df747cf25634.png)
+![image](https://user-images.githubusercontent.com/97729353/199509385-bf0a15b4-0149-4df2-809f-2c314ae0d3ac.png)
+![image](https://user-images.githubusercontent.com/97729353/199509472-526c1ff9-0142-41c9-ae17-cd340ad27ab2.png)
+
